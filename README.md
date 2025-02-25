@@ -1,5 +1,5 @@
 # update_FB
-Update FloatyBoat firmware from a Windows machine
+Update FloatyBoat (FB) firmware from a Windows machine
 
 
 ## Download TyTools
@@ -12,7 +12,7 @@ Extract folder, open and double-click TyUploader
 
 ## Download the latest FB.hex file
 
-Go to the latest_hex folder 
+Go to the [latest_hex](latest_hex) folder 
 
 Click the FB_xxxxxx.hex file 
 
@@ -21,7 +21,7 @@ Click the Download raw file button in the top right
 
 ## Set up FloatyBoat
 
-Plug in battery and turn on
+Plug in battery and turn on FloatyBoat
 
 Plug micro-USB cable from computer to micro-USB port on the grey box inside the FB
 
